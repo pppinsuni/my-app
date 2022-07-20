@@ -1,6 +1,5 @@
 <script>
 // import { Scroll, Nav } from "@src/components/button";
-
 </script>
 <!-- import { scroll } from "@src/components/button";
 import { nav } from "@src/components/button"; -->
